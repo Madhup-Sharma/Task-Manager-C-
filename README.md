@@ -14,7 +14,7 @@ A simple command-line task manager written in C++. This program allows users to 
 1. *Clone the Repository:*
 
     bash
-    git clone https://github.com/your-username/task-manager-cli.git
+    [git clone https://github.com/your-username/task-manager-cli.git](https://github.com/Madhup-Sharma/Task-Manager-C-)
     
 
 2. *Compile and Run:*
